@@ -1,2 +1,2 @@
 # Node setup
-## My inital setup for node projects
+## My initial setup for node projects
